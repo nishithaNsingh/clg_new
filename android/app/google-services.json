@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935039113136",
+    "project_id": "teachers-cabin-3c5de",
+    "storage_bucket": "teachers-cabin-3c5de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935039113136:android:7fbdf1995aa3353f8b2875",
+        "android_client_info": {
+          "package_name": "com.example.clg_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIqEHJ5AKhh0ctXoraw93EgsIp-Vwnj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
